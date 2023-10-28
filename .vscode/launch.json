@@ -15,7 +15,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Desafio_aula6",
-            "file": "/Users/catarinafreire/2repositorio_Ghub/Desafio_aula6"
+            "file": "/Users/catarinafreire/2repositorio_Ghub/Desafio_aula6.html"
         }
     ]
 }
